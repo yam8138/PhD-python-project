@@ -51,3 +51,11 @@ figures/*.jpg
 # System
 .DS_Store
 Thumbs.db
+figures/
+
+# Personal/temporary files
+Untitled.ipynb
+*.png
+check_env.sh
+update_kernels.py
+os
