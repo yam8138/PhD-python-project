@@ -3,3 +3,6 @@ __pycache__/
 *.pyc
 Untitled.ipynb
 notebooks/Untitled.ipynb
+phd_env/
+__pycache__/
+*.pyc
