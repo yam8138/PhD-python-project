@@ -59,3 +59,13 @@ Untitled.ipynb
 check_env.sh
 update_kernels.py
 os
+
+# Generated figures
+figures/
+
+# Temporary files
+*.png
+check_env.sh
+update_kernels.py
+os
+Untitled*.ipynb
